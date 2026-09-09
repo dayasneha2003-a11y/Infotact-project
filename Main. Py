@@ -1,0 +1,9 @@
+# Infotact Solutions - Dummy Project
+
+def welcome_message():
+    print("Hello! This is my Infotact project.")
+    print("GitHub repository connected successfully!")
+
+
+if __name__ == "__main__":
+    welcome_message()
